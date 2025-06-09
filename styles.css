@@ -172,3 +172,25 @@ body {
 .blog-card a:hover {
   color: #fff;
 }
+
+.footer {
+  text-align: center;
+  padding: 1rem;
+  background: #111;
+  color: #bbb;
+  font-size: 0.9rem;
+  border-top: 1px solid #333;
+}
+
+.footer a {
+  color: #ffcc00;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.footer p {
+  margin: 0;
+}
